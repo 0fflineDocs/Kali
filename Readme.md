@@ -8,9 +8,8 @@ sudo apt install git
 sudo nano ~/.bash_aliases
 
 **#Example Alias**  
-alias update='sudo apt-get update'
-
-#Ctrl+X, Y then Enter to save.
+alias update='sudo apt-get update'  
+*Ctrl+X, Y then Enter to save.*
 
 **#Updater function**  
 function apt-updater {
