@@ -1,7 +1,7 @@
-**#Passwordless Root**
+**#Passwordless Root**  
 sudo dpkg-reconfigure kali-grant-root
 
-**#GIT**
+**#GIT**  
 sudo apt install git
 
 **#Create Bash Aliases File**  
