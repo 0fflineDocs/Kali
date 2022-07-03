@@ -1,5 +1,7 @@
 ### Kali Cheat-sheet ###
 
+![image](https://user-images.githubusercontent.com/25408117/177054560-432167b0-a165-4918-af41-b177104e1576.png)
+
 **#Passwordless Root**  
 sudo dpkg-reconfigure kali-grant-root
 
